@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="cyEoaH" name="Chippy" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              companyName="MalekDSP" companyWebsite="https://github.com/MalekDeKalem"
+              pluginManufacturer="MalekDSP" pluginName="Chippy" pluginDesc="Bitcrusher and Downsampler">
   <MAINGROUP id="bCuUS1" name="Chippy">
     <GROUP id="{8A903A23-FD7A-2AE1-FE11-9D0FF685AE24}" name="Source">
       <FILE id="njp8NA" name="MalekType.otf" compile="0" resource="1" file="Resources/MalekType.otf"/>

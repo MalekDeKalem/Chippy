@@ -14,3 +14,6 @@ If you however do not have the Projucer installed simply go to the JUCE/extras/P
 LinuxMakefile \
 
 Thats it have fun with the Plugin
+
+# How it looks 
+![chippy_gui](./images/chippy_gui.png)
